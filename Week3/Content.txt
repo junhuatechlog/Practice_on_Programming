@@ -1,0 +1,9 @@
+Copy constructor
+type conversion constructor
+Destructor
+static variable, static function
+constant object, constant function
+this pointer
+how to convert C++ code to C code for compilation
+friend function, friend class
+

@@ -1,0 +1,6 @@
+Overload -- global function vs class member function
+friend overload function
+Deep copy and Shallow copy
+++ -- overload(left  vs right)
+type coversion function overload: int(); double ();
+
